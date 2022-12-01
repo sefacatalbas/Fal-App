@@ -1,4 +1,4 @@
-# fortuneapp
+# FalApp
 
 While learning flutter, I made a fortune-telling application to improve myself.
 
